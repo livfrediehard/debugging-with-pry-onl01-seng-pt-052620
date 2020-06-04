@@ -6,5 +6,3 @@ describe "#plus_two" do
 		expect(plus_two(3)).to eq(5)
 		binding.pry
 	end
-
-end
